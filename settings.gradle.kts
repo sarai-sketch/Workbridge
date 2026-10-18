@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Workbridge"
+rootProject.name = "WorkBridge"
 include(":app")
- 
